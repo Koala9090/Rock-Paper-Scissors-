@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f4f4f4;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.results {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+}
+
+.winner {
+    font-size: 24px;
+    font-weight: bold;
+    color: #d0021b;
+}
